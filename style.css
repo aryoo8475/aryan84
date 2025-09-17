@@ -1,0 +1,24 @@
+.b1{
+ background-color:MediumSeaGreen;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h2{
+ background-color:lightgrey;
+}
+.b3{
+background-color:yellow;
+  margin: 0;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.b4{
+background-color:yellow;
+  top: 80%;
+  left: 50%;
+}
